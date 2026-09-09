@@ -1,5 +1,8 @@
 # Domain-Specific LLM Fine-Tuning & Evaluation Benchmark
 
+
+![Domain-Specific LLM Fine-Tuning & Evaluation Benchmark Hero Dashboard](docs/screenshots/hero_dashboard.png)
+
 Parameter-efficient fine-tuning (PEFT/QLoRA) pipeline, synthetic dataset curation, and automated vLLM evaluation harness scoring domain accuracy (SQL generation / specialized vertical) using DeepEval / Ragas metrics.
 
 ## Key Features
